@@ -1,0 +1,553 @@
+match,team1,team1_proba,team2,team2_proba,predicted_winner
+Sakura vs Amplify,Sakura,0.7509589294664544,Amplify,0.24904107053354557,Sakura
+Sakura vs Shikigami,Sakura,0.4447125599087148,Shikigami,0.5552874400912853,Shikigami
+Sakura vs Avidity,Sakura,0.81470694785578,Avidity,0.18529305214421993,Sakura
+Sakura vs Rad,Sakura,0.20903525977906745,Rad,0.7909647402209327,Rad
+Sakura vs Timeless,Sakura,0.12538446051366342,Timeless,0.8746155394863365,Timeless
+Sakura vs Supernova,Sakura,0.2778428360594513,Supernova,0.7221571639405486,Supernova
+Sakura vs Frost Tails,Sakura,0.39982922611412375,Frost Tails,0.6001707738858761,Frost Tails
+Sakura vs The Ultimates,Sakura,0.6011423426344503,The Ultimates,0.3988576573655496,Sakura
+Sakura vs GenG,Sakura,0.15353293968060178,GenG,0.8464670603193982,GenG
+Sakura vs Al qadsiah,Sakura,0.030005110870626937,Al qadsiah,0.969994889129373,Al qadsiah
+Sakura vs Team Peps,Sakura,0.23205992044252596,Team Peps,0.767940079557474,Team Peps
+Sakura vs Virtuspro,Sakura,0.04289549457447225,Virtuspro,0.9571045054255277,Virtuspro
+Sakura vs NTMR,Sakura,0.0294761642999202,NTMR,0.9705238357000798,NTMR
+Sakura vs Extinction,Sakura,0.5258878950648995,Extinction,0.47411210493510053,Sakura
+Sakura vs Geekay Esports,Sakura,0.02920244583700677,Geekay Esports,0.9707975541629932,Geekay Esports
+Sakura vs Vision Esports,Sakura,0.05425475828567068,Vision Esports,0.9457452417143293,Vision Esports
+Sakura vs Quick Esports,Sakura,0.4774712326963949,Quick Esports,0.5225287673036051,Quick Esports
+Sakura vs Twisted Minds,Sakura,0.03753709508145424,Twisted Minds,0.9624629049185458,Twisted Minds
+Sakura vs Goud Guys,Sakura,0.11128329401763626,Goud Guys,0.8887167059823637,Goud Guys
+Sakura vs DhillDucks,Sakura,0.7780193544316625,DhillDucks,0.2219806455683376,Sakura
+Sakura vs SpaceStation,Sakura,0.03693369921640927,SpaceStation,0.9630663007835907,SpaceStation
+Sakura vs Team Z,Sakura,0.6184468330085603,Team Z,0.3815531669914397,Sakura
+Sakura vs Team Liquid,Sakura,0.03550203477713942,Team Liquid,0.9644979652228606,Team Liquid
+Amplify vs Sakura,Amplify,0.24904107053354557,Sakura,0.7509589294664544,Sakura
+Amplify vs Shikigami,Amplify,0.20985645422480162,Shikigami,0.7901435457751984,Shikigami
+Amplify vs Avidity,Amplify,0.5931871509879404,Avidity,0.4068128490120595,Amplify
+Amplify vs Rad,Amplify,0.08058066480057754,Rad,0.9194193351994224,Rad
+Amplify vs Timeless,Amplify,0.045384723627755266,Timeless,0.9546152763722446,Timeless
+Amplify vs Supernova,Amplify,0.11315413145349464,Supernova,0.8868458685465054,Supernova
+Amplify vs Frost Tails,Amplify,0.1809521531183081,Frost Tails,0.8190478468816919,Frost Tails
+Amplify vs The Ultimates,Amplify,0.3332536020014078,The Ultimates,0.6667463979985923,The Ultimates
+Amplify vs GenG,Amplify,0.056738567810700864,GenG,0.943261432189299,GenG
+Amplify vs Al qadsiah,Amplify,0.010154255780409077,Al qadsiah,0.9898457442195909,Al qadsiah
+Amplify vs Team Peps,Amplify,0.09108576278782209,Team Peps,0.9089142372121779,Team Peps
+Amplify vs Virtuspro,Amplify,0.014645347442388613,Virtuspro,0.9853546525576115,Virtuspro
+Amplify vs NTMR,Amplify,0.009971653543942485,NTMR,0.9900283464560575,NTMR
+Amplify vs Extinction,Amplify,0.26892394745541204,Extinction,0.7310760525445879,Extinction
+Amplify vs Geekay Esports,Amplify,0.00987721251998856,Geekay Esports,0.9901227874800115,Geekay Esports
+Amplify vs Vision Esports,Amplify,0.018669545007563983,Vision Esports,0.9813304549924361,Vision Esports
+Amplify vs Quick Esports,Amplify,0.23256049609717638,Quick Esports,0.7674395039028236,Quick Esports
+Amplify vs Twisted Minds,Amplify,0.012768806873037167,Twisted Minds,0.9872311931269628,Twisted Minds
+Amplify vs Goud Guys,Amplify,0.03987046022491061,Goud Guys,0.9601295397750893,Goud Guys
+Amplify vs DhillDucks,Amplify,0.5375362607610757,DhillDucks,0.4624637392389242,Amplify
+Amplify vs SpaceStation,Amplify,0.012558357692273852,SpaceStation,0.9874416423077262,SpaceStation
+Amplify vs Team Z,Amplify,0.3496058663465572,Team Z,0.6503941336534428,Team Z
+Amplify vs Team Liquid,Amplify,0.012059725110236005,Team Liquid,0.987940274889764,Team Liquid
+Shikigami vs Sakura,Shikigami,0.5552874400912853,Sakura,0.4447125599087148,Shikigami
+Shikigami vs Amplify,Shikigami,0.7901435457751984,Amplify,0.20985645422480162,Shikigami
+Shikigami vs Avidity,Shikigami,0.845919314755722,Avidity,0.15408068524427804,Shikigami
+Shikigami vs Rad,Shikigami,0.24811469063491032,Rad,0.7518853093650898,Rad
+Shikigami vs Timeless,Shikigami,0.1518271227946592,Timeless,0.8481728772053407,Timeless
+Shikigami vs Supernova,Shikigami,0.324508371832567,Supernova,0.6754916281674329,Supernova
+Shikigami vs Frost Tails,Shikigami,0.4540998520405036,Frost Tails,0.5459001479594963,Frost Tails
+Shikigami vs The Ultimates,Shikigami,0.6530073742416468,The Ultimates,0.34699262575835327,Shikigami
+Shikigami vs GenG,Shikigami,0.1846585702247442,GenG,0.8153414297752558,GenG
+Shikigami vs Al qadsiah,Shikigami,0.03718824050064591,Al qadsiah,0.9628117594993542,Al qadsiah
+Shikigami vs Team Peps,Shikigami,0.273952969899317,Team Peps,0.7260470301006829,Team Peps
+Shikigami vs Virtuspro,Shikigami,0.05299594175238651,Virtuspro,0.9470040582476135,Virtuspro
+Shikigami vs NTMR,Shikigami,0.036537435562406344,NTMR,0.9634625644375937,NTMR
+Shikigami vs Extinction,Shikigami,0.5807132436206587,Extinction,0.41928675637934143,Shikigami
+Shikigami vs Geekay Esports,Shikigami,0.03620059128904265,Geekay Esports,0.9637994087109574,Geekay Esports
+Shikigami vs Vision Esports,Shikigami,0.0668431304118648,Vision Esports,0.9331568695881353,Vision Esports
+Shikigami vs Quick Esports,Shikigami,0.5329227013068841,Quick Esports,0.46707729869311587,Shikigami
+Shikigami vs Twisted Minds,Shikigami,0.046437035875175295,Twisted Minds,0.9535629641248248,Twisted Minds
+Shikigami vs Goud Guys,Shikigami,0.13521186573553884,Goud Guys,0.8647881342644612,Goud Guys
+Shikigami vs DhillDucks,Shikigami,0.8140007966673586,DhillDucks,0.18599920333264144,Shikigami
+Shikigami vs SpaceStation,Shikigami,0.045697369128648385,SpaceStation,0.9543026308713517,SpaceStation
+Shikigami vs Team Z,Shikigami,0.6692995577415983,Team Z,0.3307004422584016,Shikigami
+Shikigami vs Team Liquid,Shikigami,0.04394149742578697,Team Liquid,0.9560585025742131,Team Liquid
+Avidity vs Sakura,Avidity,0.18529305214421993,Sakura,0.81470694785578,Sakura
+Avidity vs Amplify,Avidity,0.4068128490120595,Amplify,0.5931871509879404,Amplify
+Avidity vs Shikigami,Avidity,0.15408068524427804,Shikigami,0.845919314755722,Shikigami
+Avidity vs Rad,Avidity,0.05669838857852274,Rad,0.9433016114214773,Rad
+Avidity vs Timeless,Avidity,0.03157548402630548,Timeless,0.9684245159736945,Timeless
+Avidity vs Supernova,Avidity,0.08046269037247791,Supernova,0.9195373096275221,Supernova
+Avidity vs Frost Tails,Avidity,0.1315793009555539,Frost Tails,0.8684206990444462,Frost Tails
+Avidity vs The Ultimates,Avidity,0.25527707866294475,The Ultimates,0.7447229213370552,The Ultimates
+Avidity vs GenG,Avidity,0.03961805974731902,GenG,0.960381940252681,GenG
+Avidity vs Al qadsiah,Avidity,0.006986164449757255,Al qadsiah,0.9930138355502427,Al qadsiah
+Avidity vs Team Peps,Avidity,0.06430778287441902,Team Peps,0.935692217125581,Team Peps
+Avidity vs Virtuspro,Avidity,0.010090335307520777,Virtuspro,0.9899096646924792,Virtuspro
+Avidity vs NTMR,Avidity,0.006860138615261473,NTMR,0.9931398613847385,NTMR
+Avidity vs Extinction,Avidity,0.2014517364490414,Extinction,0.7985482635509585,Extinction
+Avidity vs Geekay Esports,Avidity,0.006794964333423994,Geekay Esports,0.993205035666576,Geekay Esports
+Avidity vs Vision Esports,Avidity,0.01287928193433104,Vision Esports,0.9871207180656689,Vision Esports
+Avidity vs Quick Esports,Avidity,0.17206448310163053,Quick Esports,0.8279355168983695,Quick Esports
+Avidity vs Twisted Minds,Avidity,0.008792230658119798,Twisted Minds,0.9912077693418802,Twisted Minds
+Avidity vs Goud Guys,Avidity,0.027690380644701407,Goud Guys,0.9723096193552986,Goud Guys
+Avidity vs DhillDucks,Avidity,0.44355941633507473,DhillDucks,0.5564405836649252,DhillDucks
+Avidity vs SpaceStation,Avidity,0.008646747409031154,SpaceStation,0.9913532525909688,SpaceStation
+Avidity vs Team Z,Avidity,0.2693488358740046,Team Z,0.7306511641259954,Team Z
+Avidity vs Team Liquid,Avidity,0.008302120431597775,Team Liquid,0.9916978795684023,Team Liquid
+Rad vs Sakura,Rad,0.7909647402209327,Sakura,0.20903525977906745,Rad
+Rad vs Amplify,Rad,0.9194193351994224,Amplify,0.08058066480057754,Rad
+Rad vs Shikigami,Rad,0.7518853093650898,Shikigami,0.24811469063491032,Rad
+Rad vs Avidity,Rad,0.9433016114214773,Avidity,0.05669838857852274,Rad
+Rad vs Timeless,Rad,0.3516830714045004,Timeless,0.6483169285954996,Timeless
+Rad vs Supernova,Rad,0.5928025729850156,Supernova,0.4071974270149843,Rad
+Rad vs Frost Tails,Rad,0.7159731172217232,Frost Tails,0.2840268827782767,Rad
+Rad vs The Ultimates,Rad,0.8508111950571156,The Ultimates,0.14918880494288456,Rad
+Rad vs GenG,Rad,0.4069940883737511,GenG,0.5930059116262488,GenG
+Rad vs Al qadsiah,Rad,0.10478318523547152,Al qadsiah,0.8952168147645284,Al qadsiah
+Rad vs Team Peps,Rad,0.5334585125181769,Team Peps,0.46654148748182306,Rad
+Rad vs Virtuspro,Rad,0.14499657640865485,Virtuspro,0.8550034235913452,Virtuspro
+Rad vs NTMR,Rad,0.10307609074257673,NTMR,0.8969239092574232,NTMR
+Rad vs Extinction,Rad,0.8075851385389061,Extinction,0.19241486146109388,Rad
+Rad vs Geekay Esports,Rad,0.10219088055794323,Geekay Esports,0.8978091194420567,Geekay Esports
+Rad vs Vision Esports,Rad,0.1783550578135554,Vision Esports,0.8216449421864447,Vision Esports
+Rad vs Quick Esports,Rad,0.7756639669537504,Quick Esports,0.2243360330462495,Rad
+Rad vs Twisted Minds,Rad,0.12859763200996316,Twisted Minds,0.8714023679900369,Twisted Minds
+Rad vs Goud Guys,Rad,0.3214864779873645,Goud Guys,0.6785135220126355,Goud Guys
+Rad vs DhillDucks,Rad,0.9298841836684066,DhillDucks,0.07011581633159328,Rad
+Rad vs SpaceStation,Rad,0.12672319703796464,SpaceStation,0.8732768029620354,SpaceStation
+Rad vs Team Z,Rad,0.8598098408253799,Team Z,0.14019015917461997,Rad
+Rad vs Team Liquid,Rad,0.12225283526949049,Team Liquid,0.8777471647305095,Team Liquid
+Timeless vs Sakura,Timeless,0.8746155394863365,Sakura,0.12538446051366342,Timeless
+Timeless vs Amplify,Timeless,0.9546152763722446,Amplify,0.045384723627755266,Timeless
+Timeless vs Shikigami,Timeless,0.8481728772053407,Shikigami,0.1518271227946592,Timeless
+Timeless vs Avidity,Timeless,0.9684245159736945,Avidity,0.03157548402630548,Timeless
+Timeless vs Rad,Timeless,0.6483169285954996,Rad,0.3516830714045004,Timeless
+Timeless vs Supernova,Timeless,0.728536992845818,Supernova,0.2714630071541821,Timeless
+Timeless vs Frost Tails,Timeless,0.8229149879312536,Frost Tails,0.1770850120687464,Timeless
+Timeless vs The Ultimates,Timeless,0.9131427972139726,The Ultimates,0.08685720278602742,Timeless
+Timeless vs GenG,Timeless,0.558541166605657,GenG,0.44145883339434294,Timeless
+Timeless vs Al qadsiah,Timeless,0.17747875976309993,Al qadsiah,0.8225212402369,Al qadsiah
+Timeless vs Team Peps,Timeless,0.6782374534626214,Team Peps,0.3217625465373786,Timeless
+Timeless vs Virtuspro,Timeless,0.23816866579098636,Virtuspro,0.7618313342090137,Virtuspro
+Timeless vs NTMR,Timeless,0.17481860946801794,NTMR,0.825181390531982,NTMR
+Timeless vs Extinction,Timeless,0.8855472727546259,Extinction,0.11445272724537416,Timeless
+Timeless vs Geekay Esports,Timeless,0.17343641745610003,Geekay Esports,0.8265635825438999,Geekay Esports
+Timeless vs Vision Esports,Timeless,0.2857975386426656,Vision Esports,0.7142024613573343,Vision Esports
+Timeless vs Quick Esports,Timeless,0.8643879652270302,Quick Esports,0.13561203477296985,Timeless
+Timeless vs Twisted Minds,Timeless,0.2138679228798122,Twisted Minds,0.7861320771201878,Twisted Minds
+Timeless vs Goud Guys,Timeless,0.4662265893076557,Goud Guys,0.5337734106923443,Goud Guys
+Timeless vs DhillDucks,Timeless,0.9607046528656071,DhillDucks,0.03929534713439291,Timeless
+Timeless vs SpaceStation,Timeless,0.21105161763235528,SpaceStation,0.7889483823676448,SpaceStation
+Timeless vs Team Z,Timeless,0.9187408550069877,Team Z,0.08125914499301234,Timeless
+Timeless vs Team Liquid,Timeless,0.2043023934972165,Team Liquid,0.7956976065027834,Team Liquid
+Supernova vs Sakura,Supernova,0.7221571639405486,Sakura,0.2778428360594513,Supernova
+Supernova vs Amplify,Supernova,0.8868458685465054,Amplify,0.11315413145349464,Supernova
+Supernova vs Shikigami,Supernova,0.6754916281674329,Shikigami,0.324508371832567,Supernova
+Supernova vs Avidity,Supernova,0.9195373096275221,Avidity,0.08046269037247791,Supernova
+Supernova vs Rad,Supernova,0.4071974270149843,Rad,0.5928025729850156,Rad
+Supernova vs Timeless,Supernova,0.2714630071541821,Timeless,0.728536992845818,Timeless
+Supernova vs Frost Tails,Supernova,0.6339059799994493,Frost Tails,0.3660940200005507,Supernova
+Supernova vs The Ultimates,Supernova,0.7966382579778313,The Ultimates,0.20336174202216867,Supernova
+Supernova vs GenG,Supernova,0.3203924223923619,GenG,0.6796075776076381,GenG
+Supernova vs Al qadsiah,Supernova,0.07441724133393515,Al qadsiah,0.925582758666065,Al qadsiah
+Supernova vs Team Peps,Supernova,0.4399096082020106,Team Peps,0.5600903917979894,Team Peps
+Supernova vs Virtuspro,Supernova,0.10433509093660041,Virtuspro,0.8956649090633996,Virtuspro
+Supernova vs NTMR,Supernova,0.07316442725685855,NTMR,0.9268355727431413,NTMR
+Supernova vs Extinction,Supernova,0.7424671683802757,Extinction,0.25753283161972423,Supernova
+Supernova vs Geekay Esports,Supernova,0.07251532791515665,Geekay Esports,0.9274846720848434,Geekay Esports
+Supernova vs Vision Esports,Supernova,0.12975854216001279,Vision Esports,0.8702414578399872,Vision Esports
+Supernova vs Quick Esports,Supernova,0.7037065421706458,Quick Esports,0.2962934578293543,Supernova
+Supernova vs Twisted Minds,Supernova,0.09203986283194293,Twisted Minds,0.9079601371680571,Twisted Minds
+Supernova vs Goud Guys,Supernova,0.2455455950109579,Goud Guys,0.754454404989042,Goud Guys
+Supernova vs DhillDucks,Supernova,0.9010858632877768,DhillDucks,0.09891413671222325,Supernova
+Supernova vs SpaceStation,Supernova,0.09064286438090144,SpaceStation,0.9093571356190986,SpaceStation
+Supernova vs Team Z,Supernova,0.8081677259171023,Team Z,0.1918322740828977,Supernova
+Supernova vs Team Liquid,Supernova,0.08731802854439683,Team Liquid,0.9126819714556031,Team Liquid
+Frost Tails vs Sakura,Frost Tails,0.6001707738858761,Sakura,0.39982922611412375,Frost Tails
+Frost Tails vs Amplify,Frost Tails,0.8190478468816919,Amplify,0.1809521531183081,Frost Tails
+Frost Tails vs Shikigami,Frost Tails,0.5459001479594963,Shikigami,0.4540998520405036,Frost Tails
+Frost Tails vs Avidity,Frost Tails,0.8684206990444462,Avidity,0.1315793009555539,Frost Tails
+Frost Tails vs Rad,Frost Tails,0.2840268827782767,Rad,0.7159731172217232,Rad
+Frost Tails vs Timeless,Frost Tails,0.1770850120687464,Timeless,0.8229149879312536,Timeless
+Frost Tails vs Supernova,Frost Tails,0.3660940200005507,Supernova,0.6339059799994493,Supernova
+Frost Tails vs The Ultimates,Frost Tails,0.6934724469246347,The Ultimates,0.3065275530753652,Frost Tails
+Frost Tails vs GenG,Frost Tails,0.21400022552397002,GenG,0.78599977447603,GenG
+Frost Tails vs Al qadsiah,Frost Tails,0.04437258176185879,Al qadsiah,0.9556274182381412,Al qadsiah
+Frost Tails vs Team Peps,Frost Tails,0.31205286667105286,Team Peps,0.6879471333289472,Team Peps
+Frost Tails vs Virtuspro,Frost Tails,0.06303421622866012,Virtuspro,0.9369657837713399,Virtuspro
+Frost Tails vs NTMR,Frost Tails,0.0436017424792764,NTMR,0.9563982575207236,NTMR
+Frost Tails vs Extinction,Frost Tails,0.6247645064467162,Extinction,0.3752354935532838,Frost Tails
+Frost Tails vs Geekay Esports,Frost Tails,0.04320269162867758,Geekay Esports,0.9567973083713224,Geekay Esports
+Frost Tails vs Vision Esports,Frost Tails,0.07928469119634347,Vision Esports,0.9207153088036565,Vision Esports
+Frost Tails vs Quick Esports,Frost Tails,0.5783492571960497,Quick Esports,0.4216507428039504,Frost Tails
+Frost Tails vs Twisted Minds,Frost Tails,0.05530550373478242,Twisted Minds,0.9446944962652176,Twisted Minds
+Frost Tails vs Goud Guys,Frost Tails,0.15822127513493975,Goud Guys,0.8417787248650602,Goud Guys
+Frost Tails vs DhillDucks,Frost Tails,0.8402833598103898,DhillDucks,0.15971664018961024,Frost Tails
+Frost Tails vs SpaceStation,Frost Tails,0.05443264028670455,SpaceStation,0.9455673597132954,SpaceStation
+Frost Tails vs Team Z,Frost Tails,0.7087122002339868,Team Z,0.29128779976601316,Frost Tails
+Frost Tails vs Team Liquid,Frost Tails,0.05235954096782975,Team Liquid,0.9476404590321702,Team Liquid
+The Ultimates vs Sakura,The Ultimates,0.3988576573655496,Sakura,0.6011423426344503,Sakura
+The Ultimates vs Amplify,The Ultimates,0.6667463979985923,Amplify,0.3332536020014078,The Ultimates
+The Ultimates vs Shikigami,The Ultimates,0.34699262575835327,Shikigami,0.6530073742416468,Shikigami
+The Ultimates vs Avidity,The Ultimates,0.7447229213370552,Avidity,0.25527707866294475,The Ultimates
+The Ultimates vs Rad,The Ultimates,0.14918880494288456,Rad,0.8508111950571156,Rad
+The Ultimates vs Timeless,The Ultimates,0.08685720278602742,Timeless,0.9131427972139726,Timeless
+The Ultimates vs Supernova,The Ultimates,0.20336174202216867,Supernova,0.7966382579778313,Supernova
+The Ultimates vs Frost Tails,The Ultimates,0.3065275530753652,Frost Tails,0.6934724469246347,Frost Tails
+The Ultimates vs GenG,The Ultimates,0.10741870207192779,GenG,0.8925812979280722,GenG
+The Ultimates vs Al qadsiah,The Ultimates,0.02011143656689088,Al qadsiah,0.9798885634331091,Al qadsiah
+The Ultimates vs Team Peps,The Ultimates,0.16701343750428,Team Peps,0.83298656249572,Team Peps
+The Ultimates vs Virtuspro,The Ultimates,0.02887797509977044,Virtuspro,0.9711220249002296,Virtuspro
+The Ultimates vs NTMR,The Ultimates,0.019753349344322397,NTMR,0.9802466506556776,NTMR
+The Ultimates vs Extinction,The Ultimates,0.4239490365117,Extinction,0.5760509634883,Extinction
+The Ultimates vs Geekay Esports,The Ultimates,0.019568097462086445,Geekay Esports,0.9804319025379136,Geekay Esports
+The Ultimates vs Vision Esports,The Ultimates,0.036667434482631676,Vision Esports,0.9633325655173685,Vision Esports
+The Ultimates vs Quick Esports,The Ultimates,0.3774459031527699,Quick Esports,0.6225540968472302,Quick Esports
+The Ultimates vs Twisted Minds,The Ultimates,0.025224461152527713,Twisted Minds,0.9747755388474724,Twisted Minds
+The Ultimates vs Goud Guys,The Ultimates,0.0767089223877954,Goud Guys,0.9232910776122045,Goud Guys
+The Ultimates vs DhillDucks,The Ultimates,0.6992931271108942,DhillDucks,0.3007068728891058,The Ultimates
+The Ultimates vs SpaceStation,The Ultimates,0.024813883894615318,SpaceStation,0.9751861161053847,SpaceStation
+The Ultimates vs Team Z,The Ultimates,0.5181754575868772,Team Z,0.4818245424131228,The Ultimates
+The Ultimates vs Team Liquid,The Ultimates,0.023840391207613894,Team Liquid,0.9761596087923862,Team Liquid
+GenG vs Sakura,GenG,0.8464670603193982,Sakura,0.15353293968060178,GenG
+GenG vs Amplify,GenG,0.943261432189299,Amplify,0.056738567810700864,GenG
+GenG vs Shikigami,GenG,0.8153414297752558,Shikigami,0.1846585702247442,GenG
+GenG vs Avidity,GenG,0.960381940252681,Avidity,0.03961805974731902,GenG
+GenG vs Rad,GenG,0.5930059116262488,Rad,0.4069940883737511,GenG
+GenG vs Timeless,GenG,0.44145883339434294,Timeless,0.558541166605657,Timeless
+GenG vs Supernova,GenG,0.6796075776076381,Supernova,0.3203924223923619,GenG
+GenG vs Frost Tails,GenG,0.78599977447603,Frost Tails,0.21400022552397002,GenG
+GenG vs The Ultimates,GenG,0.8925812979280722,The Ultimates,0.10741870207192779,GenG
+GenG vs Al qadsiah,GenG,0.1456957415303116,Al qadsiah,0.8543042584696885,Al qadsiah
+GenG vs Team Peps,GenG,0.6249096292917633,Team Peps,0.37509037070823675,GenG
+GenG vs Virtuspro,GenG,0.19813531990345376,Virtuspro,0.8018646800965462,Virtuspro
+GenG vs NTMR,GenG,0.14342890272603773,NTMR,0.8565710972739623,NTMR
+GenG vs Extinction,GenG,0.8594585837135432,Extinction,0.14054141628645686,GenG
+GenG vs Geekay Esports,GenG,0.14225210780358005,Geekay Esports,0.85774789219642,Geekay Esports
+GenG vs Vision Esports,GenG,0.24028340526868844,Vision Esports,0.7597165947313116,Vision Esports
+GenG vs Quick Esports,GenG,0.8343782173228876,Quick Esports,0.16562178267711236,GenG
+GenG vs Twisted Minds,GenG,0.17697039322074848,Twisted Minds,0.8230296067792514,Twisted Minds
+GenG vs Goud Guys,GenG,0.4084097676675182,Goud Guys,0.5915902323324819,Goud Guys
+GenG vs DhillDucks,GenG,0.9507956608625615,DhillDucks,0.049204339137438546,GenG
+GenG vs SpaceStation,GenG,0.17453209798970765,SpaceStation,0.8254679020102923,SpaceStation
+GenG vs Team Z,GenG,0.899358512874249,Team Z,0.1006414871257511,GenG
+GenG vs Team Liquid,GenG,0.16870100890229056,Team Liquid,0.8312989910977094,Team Liquid
+Al qadsiah vs Sakura,Al qadsiah,0.969994889129373,Sakura,0.030005110870626937,Al qadsiah
+Al qadsiah vs Amplify,Al qadsiah,0.9898457442195909,Amplify,0.010154255780409077,Al qadsiah
+Al qadsiah vs Shikigami,Al qadsiah,0.9628117594993542,Shikigami,0.03718824050064591,Al qadsiah
+Al qadsiah vs Avidity,Al qadsiah,0.9930138355502427,Avidity,0.006986164449757255,Al qadsiah
+Al qadsiah vs Rad,Al qadsiah,0.8952168147645284,Rad,0.10478318523547152,Al qadsiah
+Al qadsiah vs Timeless,Al qadsiah,0.8225212402369,Timeless,0.17747875976309993,Al qadsiah
+Al qadsiah vs Supernova,Al qadsiah,0.925582758666065,Supernova,0.07441724133393515,Al qadsiah
+Al qadsiah vs Frost Tails,Al qadsiah,0.9556274182381412,Frost Tails,0.04437258176185879,Al qadsiah
+Al qadsiah vs The Ultimates,Al qadsiah,0.9798885634331091,The Ultimates,0.02011143656689088,Al qadsiah
+Al qadsiah vs GenG,Al qadsiah,0.8543042584696885,GenG,0.1456957415303116,Al qadsiah
+Al qadsiah vs Team Peps,Al qadsiah,0.9071402670144618,Team Peps,0.09285973298553815,Al qadsiah
+Al qadsiah vs Virtuspro,Al qadsiah,0.5916467846090862,Virtuspro,0.4083532153909139,Al qadsiah
+Al qadsiah vs NTMR,Al qadsiah,0.495417392675491,NTMR,0.504582607324509,NTMR
+Al qadsiah vs Extinction,Al qadsiah,0.9728688648936015,Extinction,0.027131135106398505,Al qadsiah
+Al qadsiah vs Geekay Esports,Al qadsiah,0.49301485095705583,Geekay Esports,0.5069851490429442,Geekay Esports
+Al qadsiah vs Vision Esports,Al qadsiah,0.6496817361441269,Vision Esports,0.350318263855873,Al qadsiah
+Al qadsiah vs Quick Esports,Al qadsiah,0.9672561104899778,Quick Esports,0.03274388951002225,Al qadsiah
+Al qadsiah vs Twisted Minds,Al qadsiah,0.557681350540628,Twisted Minds,0.442318649459372,Al qadsiah
+Al qadsiah vs Goud Guys,Al qadsiah,0.8019018656789881,Goud Guys,0.19809813432101192,Al qadsiah
+Al qadsiah vs DhillDucks,Al qadsiah,0.9912514848156866,DhillDucks,0.00874851518431335,Al qadsiah
+Al qadsiah vs SpaceStation,Al qadsiah,0.5535254194085684,SpaceStation,0.4464745805914316,Al qadsiah
+Al qadsiah vs Team Z,Al qadsiah,0.98127299486248,Team Z,0.018727005137520014,Al qadsiah
+Al qadsiah vs Team Liquid,Al qadsiah,0.5433670995641656,Team Liquid,0.45663290043583443,Al qadsiah
+Team Peps vs Sakura,Team Peps,0.767940079557474,Sakura,0.23205992044252596,Team Peps
+Team Peps vs Amplify,Team Peps,0.9089142372121779,Amplify,0.09108576278782209,Team Peps
+Team Peps vs Shikigami,Team Peps,0.7260470301006829,Shikigami,0.273952969899317,Team Peps
+Team Peps vs Avidity,Team Peps,0.935692217125581,Avidity,0.06430778287441902,Team Peps
+Team Peps vs Rad,Team Peps,0.46654148748182306,Rad,0.5334585125181769,Rad
+Team Peps vs Timeless,Team Peps,0.3217625465373786,Timeless,0.6782374534626214,Timeless
+Team Peps vs Supernova,Team Peps,0.5600903917979894,Supernova,0.4399096082020106,Team Peps
+Team Peps vs Frost Tails,Team Peps,0.6879471333289472,Frost Tails,0.31205286667105286,Team Peps
+Team Peps vs The Ultimates,Team Peps,0.83298656249572,The Ultimates,0.16701343750428,Team Peps
+Team Peps vs GenG,Team Peps,0.37509037070823675,GenG,0.6249096292917633,GenG
+Team Peps vs Al qadsiah,Team Peps,0.09285973298553815,Al qadsiah,0.9071402670144618,Al qadsiah
+Team Peps vs Virtuspro,Team Peps,0.12915737052787313,Virtuspro,0.8708426294721269,Virtuspro
+Team Peps vs NTMR,Team Peps,0.09132707453992797,NTMR,0.9086729254600721,NTMR
+Team Peps vs Extinction,Team Peps,0.7858956236733542,Extinction,0.21410437632664578,Team Peps
+Team Peps vs Geekay Esports,Team Peps,0.09053257958695964,Geekay Esports,0.9094674204130404,Geekay Esports
+Team Peps vs Vision Esports,Team Peps,0.15955183296349285,Vision Esports,0.8404481670365072,Vision Esports
+Team Peps vs Quick Esports,Team Peps,0.7514834915110405,Quick Esports,0.24851650848895945,Team Peps
+Team Peps vs Twisted Minds,Team Peps,0.11431031992405932,Twisted Minds,0.8856896800759406,Twisted Minds
+Team Peps vs Goud Guys,Team Peps,0.2929740610243665,Goud Guys,0.7070259389756335,Goud Guys
+Team Peps vs DhillDucks,Team Peps,0.9206255822335759,DhillDucks,0.0793744177664241,Team Peps
+Team Peps vs SpaceStation,Team Peps,0.11261722261848964,SpaceStation,0.8873827773815104,SpaceStation
+Team Peps vs Team Z,Team Peps,0.8428617711546724,Team Z,0.1571382288453276,Team Peps
+Team Peps vs Team Liquid,Team Peps,0.10858259893022594,Team Liquid,0.8914174010697741,Team Liquid
+Virtuspro vs Sakura,Virtuspro,0.9571045054255277,Sakura,0.04289549457447225,Virtuspro
+Virtuspro vs Amplify,Virtuspro,0.9853546525576115,Amplify,0.014645347442388613,Virtuspro
+Virtuspro vs Shikigami,Virtuspro,0.9470040582476135,Shikigami,0.05299594175238651,Virtuspro
+Virtuspro vs Avidity,Virtuspro,0.9899096646924792,Avidity,0.010090335307520777,Virtuspro
+Virtuspro vs Rad,Virtuspro,0.8550034235913452,Rad,0.14499657640865485,Virtuspro
+Virtuspro vs Timeless,Virtuspro,0.7618313342090137,Timeless,0.23816866579098636,Virtuspro
+Virtuspro vs Supernova,Virtuspro,0.8956649090633996,Supernova,0.10433509093660041,Virtuspro
+Virtuspro vs Frost Tails,Virtuspro,0.9369657837713399,Frost Tails,0.06303421622866012,Virtuspro
+Virtuspro vs The Ultimates,Virtuspro,0.9711220249002296,The Ultimates,0.02887797509977044,Virtuspro
+Virtuspro vs GenG,Virtuspro,0.8018646800965462,GenG,0.19813531990345376,Virtuspro
+Virtuspro vs Al qadsiah,Virtuspro,0.4083532153909139,Al qadsiah,0.5916467846090862,Al qadsiah
+Virtuspro vs Team Peps,Virtuspro,0.8708426294721269,Team Peps,0.12915737052787313,Virtuspro
+Virtuspro vs NTMR,Virtuspro,0.4039319951004735,NTMR,0.5960680048995264,NTMR
+Virtuspro vs Extinction,Virtuspro,0.9611637256394304,Extinction,0.03883627436056955,Virtuspro
+Virtuspro vs Geekay Esports,Virtuspro,0.401619984688503,Geekay Esports,0.598380015311497,Geekay Esports
+Virtuspro vs Vision Esports,Virtuspro,0.5614042909016344,Vision Esports,0.4385957090983655,Virtuspro
+Virtuspro vs Quick Esports,Virtuspro,0.9532458427552396,Quick Esports,0.04675415724476048,Virtuspro
+Virtuspro vs Twisted Minds,Virtuspro,0.4653008439052383,Twisted Minds,0.5346991560947617,Twisted Minds
+Virtuspro vs Goud Guys,Virtuspro,0.7364205311385894,Goud Guys,0.26357946886141054,Virtuspro
+Virtuspro vs DhillDucks,Virtuspro,0.9873742029425235,DhillDucks,0.012625797057476422,Virtuspro
+Virtuspro vs SpaceStation,Virtuspro,0.4611156567010322,SpaceStation,0.5388843432989677,SpaceStation
+Virtuspro vs Team Z,Virtuspro,0.9730933568236673,Team Z,0.02690664317633272,Virtuspro
+Virtuspro vs Team Liquid,Virtuspro,0.4509403738028299,Team Liquid,0.54905962619717,Team Liquid
+NTMR vs Sakura,NTMR,0.9705238357000798,Sakura,0.0294761642999202,NTMR
+NTMR vs Amplify,NTMR,0.9900283464560575,Amplify,0.009971653543942485,NTMR
+NTMR vs Shikigami,NTMR,0.9634625644375937,Shikigami,0.036537435562406344,NTMR
+NTMR vs Avidity,NTMR,0.9931398613847385,Avidity,0.006860138615261473,NTMR
+NTMR vs Rad,NTMR,0.8969239092574232,Rad,0.10307609074257673,NTMR
+NTMR vs Timeless,NTMR,0.825181390531982,Timeless,0.17481860946801794,NTMR
+NTMR vs Supernova,NTMR,0.9268355727431413,Supernova,0.07316442725685855,NTMR
+NTMR vs Frost Tails,NTMR,0.9563982575207236,Frost Tails,0.0436017424792764,NTMR
+NTMR vs The Ultimates,NTMR,0.9802466506556776,The Ultimates,0.019753349344322397,NTMR
+NTMR vs GenG,NTMR,0.8565710972739623,GenG,0.14342890272603773,NTMR
+NTMR vs Al qadsiah,NTMR,0.504582607324509,Al qadsiah,0.495417392675491,NTMR
+NTMR vs Team Peps,NTMR,0.9086729254600721,Team Peps,0.09132707453992797,NTMR
+NTMR vs Virtuspro,NTMR,0.5960680048995264,Virtuspro,0.4039319951004735,NTMR
+NTMR vs Extinction,NTMR,0.9733485394798663,Extinction,0.026651460520133622,NTMR
+NTMR vs Geekay Esports,NTMR,0.4975971506188542,Geekay Esports,0.5024028493811458,Geekay Esports
+NTMR vs Vision Esports,NTMR,0.6538422418203961,Vision Esports,0.34615775817960387,NTMR
+NTMR vs Quick Esports,NTMR,0.9678317366057277,Quick Esports,0.03216826339427234,NTMR
+NTMR vs Twisted Minds,NTMR,0.5621981942267309,Twisted Minds,0.4378018057732692,NTMR
+NTMR vs Goud Guys,NTMR,0.8047977251952553,Goud Guys,0.1952022748047446,NTMR
+NTMR vs DhillDucks,NTMR,0.9914090272613172,DhillDucks,0.00859097273868277,NTMR
+NTMR vs SpaceStation,NTMR,0.5580510702786495,SpaceStation,0.4419489297213506,NTMR
+NTMR vs Team Z,NTMR,0.9816068947662195,Team Z,0.018393105233780453,NTMR
+NTMR vs Team Liquid,NTMR,0.5479116201426258,Team Liquid,0.45208837985737416,NTMR
+Extinction vs Sakura,Extinction,0.47411210493510053,Sakura,0.5258878950648995,Sakura
+Extinction vs Amplify,Extinction,0.7310760525445879,Amplify,0.26892394745541204,Extinction
+Extinction vs Shikigami,Extinction,0.41928675637934143,Shikigami,0.5807132436206587,Shikigami
+Extinction vs Avidity,Extinction,0.7985482635509585,Avidity,0.2014517364490414,Extinction
+Extinction vs Rad,Extinction,0.19241486146109388,Rad,0.8075851385389061,Rad
+Extinction vs Timeless,Extinction,0.11445272724537416,Timeless,0.8855472727546259,Timeless
+Extinction vs Supernova,Extinction,0.25753283161972423,Supernova,0.7424671683802757,Supernova
+Extinction vs Frost Tails,Extinction,0.3752354935532838,Frost Tails,0.6247645064467162,Frost Tails
+Extinction vs The Ultimates,Extinction,0.5760509634883,The Ultimates,0.4239490365117,Extinction
+Extinction vs GenG,Extinction,0.14054141628645686,GenG,0.8594585837135432,GenG
+Extinction vs Al qadsiah,Extinction,0.027131135106398505,Al qadsiah,0.9728688648936015,Al qadsiah
+Extinction vs Team Peps,Extinction,0.21410437632664578,Team Peps,0.7858956236733542,Team Peps
+Extinction vs Virtuspro,Extinction,0.03883627436056955,Virtuspro,0.9611637256394304,Virtuspro
+Extinction vs NTMR,Extinction,0.026651460520133622,NTMR,0.9733485394798663,NTMR
+Extinction vs Geekay Esports,Extinction,0.026403258920816526,Geekay Esports,0.9735967410791835,Geekay Esports
+Extinction vs Vision Esports,Extinction,0.049175835570487034,Vision Esports,0.9508241644295129,Vision Esports
+Extinction vs Quick Esports,Extinction,0.45169602546435267,Quick Esports,0.5483039745356474,Quick Esports
+Extinction vs Twisted Minds,Extinction,0.03396694718593154,Twisted Minds,0.9660330528140684,Twisted Minds
+Extinction vs Goud Guys,Extinction,0.1014383921340223,Goud Guys,0.8985616078659777,Goud Guys
+Extinction vs DhillDucks,Extinction,0.7596053262778885,DhillDucks,0.2403946737221116,Extinction
+Extinction vs SpaceStation,Extinction,0.033418947541944535,SpaceStation,0.9665810524580554,SpaceStation
+Extinction vs Team Z,Extinction,0.5937083037177705,Team Z,0.40629169628222955,Extinction
+Extinction vs Team Liquid,Extinction,0.0321189819564825,Team Liquid,0.9678810180435174,Team Liquid
+Geekay Esports vs Sakura,Geekay Esports,0.9707975541629932,Sakura,0.02920244583700677,Geekay Esports
+Geekay Esports vs Amplify,Geekay Esports,0.9901227874800115,Amplify,0.00987721251998856,Geekay Esports
+Geekay Esports vs Shikigami,Geekay Esports,0.9637994087109574,Shikigami,0.03620059128904265,Geekay Esports
+Geekay Esports vs Avidity,Geekay Esports,0.993205035666576,Avidity,0.006794964333423994,Geekay Esports
+Geekay Esports vs Rad,Geekay Esports,0.8978091194420567,Rad,0.10219088055794323,Geekay Esports
+Geekay Esports vs Timeless,Geekay Esports,0.8265635825438999,Timeless,0.17343641745610003,Geekay Esports
+Geekay Esports vs Supernova,Geekay Esports,0.9274846720848434,Supernova,0.07251532791515665,Geekay Esports
+Geekay Esports vs Frost Tails,Geekay Esports,0.9567973083713224,Frost Tails,0.04320269162867758,Geekay Esports
+Geekay Esports vs The Ultimates,Geekay Esports,0.9804319025379136,The Ultimates,0.019568097462086445,Geekay Esports
+Geekay Esports vs GenG,Geekay Esports,0.85774789219642,GenG,0.14225210780358005,Geekay Esports
+Geekay Esports vs Al qadsiah,Geekay Esports,0.5069851490429442,Al qadsiah,0.49301485095705583,Geekay Esports
+Geekay Esports vs Team Peps,Geekay Esports,0.9094674204130404,Team Peps,0.09053257958695964,Geekay Esports
+Geekay Esports vs Virtuspro,Geekay Esports,0.598380015311497,Virtuspro,0.401619984688503,Geekay Esports
+Geekay Esports vs NTMR,Geekay Esports,0.5024028493811458,NTMR,0.4975971506188542,Geekay Esports
+Geekay Esports vs Extinction,Geekay Esports,0.9735967410791835,Extinction,0.026403258920816526,Geekay Esports
+Geekay Esports vs Vision Esports,Geekay Esports,0.6560144022308579,Vision Esports,0.34398559776914206,Geekay Esports
+Geekay Esports vs Quick Esports,Geekay Esports,0.9681296332287606,Quick Esports,0.031870366771239465,Geekay Esports
+Geekay Esports vs Twisted Minds,Geekay Esports,0.564562447429814,Twisted Minds,0.43543755257018596,Geekay Esports
+Geekay Esports vs Goud Guys,Geekay Esports,0.806303249374583,Goud Guys,0.19369675062541716,Geekay Esports
+Geekay Esports vs DhillDucks,Geekay Esports,0.9914905043214942,DhillDucks,0.008509495678505735,Geekay Esports
+Geekay Esports vs SpaceStation,Geekay Esports,0.5604202080890974,SpaceStation,0.4395797919109025,Geekay Esports
+Geekay Esports vs Team Z,Geekay Esports,0.9817796270526786,Team Z,0.018220372947321442,Geekay Esports
+Geekay Esports vs Team Liquid,Geekay Esports,0.5502913104946182,Team Liquid,0.4497086895053818,Geekay Esports
+Vision Esports vs Sakura,Vision Esports,0.9457452417143293,Sakura,0.05425475828567068,Vision Esports
+Vision Esports vs Amplify,Vision Esports,0.9813304549924361,Amplify,0.018669545007563983,Vision Esports
+Vision Esports vs Shikigami,Vision Esports,0.9331568695881353,Shikigami,0.0668431304118648,Vision Esports
+Vision Esports vs Avidity,Vision Esports,0.9871207180656689,Avidity,0.01287928193433104,Vision Esports
+Vision Esports vs Rad,Vision Esports,0.8216449421864447,Rad,0.1783550578135554,Vision Esports
+Vision Esports vs Timeless,Vision Esports,0.7142024613573343,Timeless,0.2857975386426656,Vision Esports
+Vision Esports vs Supernova,Vision Esports,0.8702414578399872,Supernova,0.12975854216001279,Vision Esports
+Vision Esports vs Frost Tails,Vision Esports,0.9207153088036565,Frost Tails,0.07928469119634347,Vision Esports
+Vision Esports vs The Ultimates,Vision Esports,0.9633325655173685,The Ultimates,0.036667434482631676,Vision Esports
+Vision Esports vs GenG,Vision Esports,0.7597165947313116,GenG,0.24028340526868844,Vision Esports
+Vision Esports vs Al qadsiah,Vision Esports,0.350318263855873,Al qadsiah,0.6496817361441269,Al qadsiah
+Vision Esports vs Team Peps,Vision Esports,0.8404481670365072,Team Peps,0.15955183296349285,Vision Esports
+Vision Esports vs Virtuspro,Vision Esports,0.4385957090983655,Virtuspro,0.5614042909016344,Virtuspro
+Vision Esports vs NTMR,Vision Esports,0.34615775817960387,NTMR,0.6538422418203961,NTMR
+Vision Esports vs Extinction,Vision Esports,0.9508241644295129,Extinction,0.049175835570487034,Vision Esports
+Vision Esports vs Geekay Esports,Vision Esports,0.34398559776914206,Geekay Esports,0.6560144022308579,Geekay Esports
+Vision Esports vs Quick Esports,Vision Esports,0.9409278234147315,Quick Esports,0.059072176585268636,Vision Esports
+Vision Esports vs Twisted Minds,Vision Esports,0.40470869301650575,Twisted Minds,0.5952913069834943,Twisted Minds
+Vision Esports vs Goud Guys,Vision Esports,0.6858057852857629,Goud Guys,0.31419421471423714,Vision Esports
+Vision Esports vs DhillDucks,Vision Esports,0.9838958609842567,DhillDucks,0.016104139015743178,Vision Esports
+Vision Esports vs SpaceStation,Vision Esports,0.4006601273570408,SpaceStation,0.5993398726429593,SpaceStation
+Vision Esports vs Team Z,Vision Esports,0.965816921606048,Team Z,0.03418307839395194,Vision Esports
+Vision Esports vs Team Liquid,Vision Esports,0.39085131217212765,Team Liquid,0.6091486878278723,Team Liquid
+Quick Esports vs Sakura,Quick Esports,0.5225287673036051,Sakura,0.4774712326963949,Quick Esports
+Quick Esports vs Amplify,Quick Esports,0.7674395039028236,Amplify,0.23256049609717638,Quick Esports
+Quick Esports vs Shikigami,Quick Esports,0.46707729869311587,Shikigami,0.5329227013068841,Shikigami
+Quick Esports vs Avidity,Quick Esports,0.8279355168983695,Avidity,0.17206448310163053,Quick Esports
+Quick Esports vs Rad,Quick Esports,0.2243360330462495,Rad,0.7756639669537504,Rad
+Quick Esports vs Timeless,Quick Esports,0.13561203477296985,Timeless,0.8643879652270302,Timeless
+Quick Esports vs Supernova,Quick Esports,0.2962934578293543,Supernova,0.7037065421706458,Supernova
+Quick Esports vs Frost Tails,Quick Esports,0.4216507428039504,Frost Tails,0.5783492571960497,Frost Tails
+Quick Esports vs The Ultimates,Quick Esports,0.6225540968472302,The Ultimates,0.3774459031527699,Quick Esports
+Quick Esports vs GenG,Quick Esports,0.16562178267711236,GenG,0.8343782173228876,GenG
+Quick Esports vs Al qadsiah,Quick Esports,0.03274388951002225,Al qadsiah,0.9672561104899778,Al qadsiah
+Quick Esports vs Team Peps,Quick Esports,0.24851650848895945,Team Peps,0.7514834915110405,Team Peps
+Quick Esports vs Virtuspro,Quick Esports,0.04675415724476048,Virtuspro,0.9532458427552396,Virtuspro
+Quick Esports vs NTMR,Quick Esports,0.03216826339427234,NTMR,0.9678317366057277,NTMR
+Quick Esports vs Extinction,Quick Esports,0.5483039745356474,Extinction,0.45169602546435267,Quick Esports
+Quick Esports vs Geekay Esports,Quick Esports,0.031870366771239465,Geekay Esports,0.9681296332287606,Geekay Esports
+Quick Esports vs Vision Esports,Quick Esports,0.059072176585268636,Vision Esports,0.9409278234147315,Vision Esports
+Quick Esports vs Twisted Minds,Quick Esports,0.04093435837983445,Twisted Minds,0.9590656416201656,Twisted Minds
+Quick Esports vs Goud Guys,Quick Esports,0.12051913783280248,Goud Guys,0.8794808621671975,Goud Guys
+Quick Esports vs DhillDucks,Quick Esports,0.7932023092564053,DhillDucks,0.20679769074359466,Quick Esports
+Quick Esports vs SpaceStation,Quick Esports,0.0402786380752523,SpaceStation,0.9597213619247478,SpaceStation
+Quick Esports vs Team Z,Quick Esports,0.6394867405263323,Team Z,0.3605132594736677,Quick Esports
+Quick Esports vs Team Liquid,Quick Esports,0.038722526774741244,Team Liquid,0.9612774732252588,Team Liquid
+Twisted Minds vs Sakura,Twisted Minds,0.9624629049185458,Sakura,0.03753709508145424,Twisted Minds
+Twisted Minds vs Amplify,Twisted Minds,0.9872311931269628,Amplify,0.012768806873037167,Twisted Minds
+Twisted Minds vs Shikigami,Twisted Minds,0.9535629641248248,Shikigami,0.046437035875175295,Twisted Minds
+Twisted Minds vs Avidity,Twisted Minds,0.9912077693418802,Avidity,0.008792230658119798,Twisted Minds
+Twisted Minds vs Rad,Twisted Minds,0.8714023679900369,Rad,0.12859763200996316,Twisted Minds
+Twisted Minds vs Timeless,Twisted Minds,0.7861320771201878,Timeless,0.2138679228798122,Twisted Minds
+Twisted Minds vs Supernova,Twisted Minds,0.9079601371680571,Supernova,0.09203986283194293,Twisted Minds
+Twisted Minds vs Frost Tails,Twisted Minds,0.9446944962652176,Frost Tails,0.05530550373478242,Twisted Minds
+Twisted Minds vs The Ultimates,Twisted Minds,0.9747755388474724,The Ultimates,0.025224461152527713,Twisted Minds
+Twisted Minds vs GenG,Twisted Minds,0.8230296067792514,GenG,0.17697039322074848,Twisted Minds
+Twisted Minds vs Al qadsiah,Twisted Minds,0.442318649459372,Al qadsiah,0.557681350540628,Al qadsiah
+Twisted Minds vs Team Peps,Twisted Minds,0.8856896800759406,Team Peps,0.11431031992405932,Twisted Minds
+Twisted Minds vs Virtuspro,Twisted Minds,0.5346991560947617,Virtuspro,0.4653008439052383,Twisted Minds
+Twisted Minds vs NTMR,Twisted Minds,0.4378018057732692,NTMR,0.5621981942267309,NTMR
+Twisted Minds vs Extinction,Twisted Minds,0.9660330528140684,Extinction,0.03396694718593154,Twisted Minds
+Twisted Minds vs Geekay Esports,Twisted Minds,0.43543755257018596,Geekay Esports,0.564562447429814,Geekay Esports
+Twisted Minds vs Vision Esports,Twisted Minds,0.5952913069834943,Vision Esports,0.40470869301650575,Twisted Minds
+Twisted Minds vs Quick Esports,Twisted Minds,0.9590656416201656,Quick Esports,0.04093435837983445,Twisted Minds
+Twisted Minds vs Goud Guys,Twisted Minds,0.7625057267538387,Goud Guys,0.23749427324616132,Twisted Minds
+Twisted Minds vs DhillDucks,Twisted Minds,0.9889948642000932,DhillDucks,0.011005135799906739,Twisted Minds
+Twisted Minds vs SpaceStation,Twisted Minds,0.495792102708506,SpaceStation,0.504207897291494,SpaceStation
+Twisted Minds vs Team Z,Twisted Minds,0.9765035009438194,Team Z,0.023496499056180505,Twisted Minds
+Twisted Minds vs Team Liquid,Twisted Minds,0.48554107458480644,Team Liquid,0.5144589254151937,Team Liquid
+Goud Guys vs Sakura,Goud Guys,0.8887167059823637,Sakura,0.11128329401763626,Goud Guys
+Goud Guys vs Amplify,Goud Guys,0.9601295397750893,Amplify,0.03987046022491061,Goud Guys
+Goud Guys vs Shikigami,Goud Guys,0.8647881342644612,Shikigami,0.13521186573553884,Goud Guys
+Goud Guys vs Avidity,Goud Guys,0.9723096193552986,Avidity,0.027690380644701407,Goud Guys
+Goud Guys vs Rad,Goud Guys,0.6785135220126355,Rad,0.3214864779873645,Goud Guys
+Goud Guys vs Timeless,Goud Guys,0.5337734106923443,Timeless,0.4662265893076557,Goud Guys
+Goud Guys vs Supernova,Goud Guys,0.754454404989042,Supernova,0.2455455950109579,Goud Guys
+Goud Guys vs Frost Tails,Goud Guys,0.8417787248650602,Frost Tails,0.15822127513493975,Goud Guys
+Goud Guys vs The Ultimates,Goud Guys,0.9232910776122045,The Ultimates,0.0767089223877954,Goud Guys
+Goud Guys vs GenG,Goud Guys,0.5915902323324819,GenG,0.4084097676675182,Goud Guys
+Goud Guys vs Al qadsiah,Goud Guys,0.19809813432101192,Al qadsiah,0.8019018656789881,Al qadsiah
+Goud Guys vs Team Peps,Goud Guys,0.7070259389756335,Team Peps,0.2929740610243665,Goud Guys
+Goud Guys vs Virtuspro,Goud Guys,0.26357946886141054,Virtuspro,0.7364205311385894,Virtuspro
+Goud Guys vs NTMR,Goud Guys,0.1952022748047446,NTMR,0.8047977251952553,NTMR
+Goud Guys vs Extinction,Goud Guys,0.8985616078659777,Extinction,0.1014383921340223,Goud Guys
+Goud Guys vs Geekay Esports,Goud Guys,0.19369675062541716,Geekay Esports,0.806303249374583,Geekay Esports
+Goud Guys vs Vision Esports,Goud Guys,0.31419421471423714,Vision Esports,0.6858057852857629,Vision Esports
+Goud Guys vs Quick Esports,Goud Guys,0.8794808621671975,Quick Esports,0.12051913783280248,Goud Guys
+Goud Guys vs Twisted Minds,Goud Guys,0.23749427324616132,Twisted Minds,0.7625057267538387,Twisted Minds
+Goud Guys vs DhillDucks,Goud Guys,0.9655057886896891,DhillDucks,0.034494211310311,Goud Guys
+Goud Guys vs SpaceStation,Goud Guys,0.23445963645556864,SpaceStation,0.7655403635444313,SpaceStation
+Goud Guys vs Team Z,Goud Guys,0.9282864330422831,Team Z,0.07171356695771676,Goud Guys
+Goud Guys vs Team Liquid,Goud Guys,0.22717739596032585,Team Liquid,0.7728226040396741,Team Liquid
+DhillDucks vs Sakura,DhillDucks,0.2219806455683376,Sakura,0.7780193544316625,Sakura
+DhillDucks vs Amplify,DhillDucks,0.4624637392389242,Amplify,0.5375362607610757,Amplify
+DhillDucks vs Shikigami,DhillDucks,0.18599920333264144,Shikigami,0.8140007966673586,Shikigami
+DhillDucks vs Avidity,DhillDucks,0.5564405836649252,Avidity,0.44355941633507473,DhillDucks
+DhillDucks vs Rad,DhillDucks,0.07011581633159328,Rad,0.9298841836684066,Rad
+DhillDucks vs Timeless,DhillDucks,0.03929534713439291,Timeless,0.9607046528656071,Timeless
+DhillDucks vs Supernova,DhillDucks,0.09891413671222325,Supernova,0.9010858632877768,Supernova
+DhillDucks vs Frost Tails,DhillDucks,0.15971664018961024,Frost Tails,0.8402833598103898,Frost Tails
+DhillDucks vs The Ultimates,DhillDucks,0.3007068728891058,The Ultimates,0.6992931271108942,The Ultimates
+DhillDucks vs GenG,DhillDucks,0.049204339137438546,GenG,0.9507956608625615,GenG
+DhillDucks vs Al qadsiah,DhillDucks,0.00874851518431335,Al qadsiah,0.9912514848156866,Al qadsiah
+DhillDucks vs Team Peps,DhillDucks,0.0793744177664241,Team Peps,0.9206255822335759,Team Peps
+DhillDucks vs Virtuspro,DhillDucks,0.012625797057476422,Virtuspro,0.9873742029425235,Virtuspro
+DhillDucks vs NTMR,DhillDucks,0.00859097273868277,NTMR,0.9914090272613172,NTMR
+DhillDucks vs Extinction,DhillDucks,0.2403946737221116,Extinction,0.7596053262778885,Extinction
+DhillDucks vs Geekay Esports,DhillDucks,0.008509495678505735,Geekay Esports,0.9914905043214942,Geekay Esports
+DhillDucks vs Vision Esports,DhillDucks,0.016104139015743178,Vision Esports,0.9838958609842567,Vision Esports
+DhillDucks vs Quick Esports,DhillDucks,0.20679769074359466,Quick Esports,0.7932023092564053,Quick Esports
+DhillDucks vs Twisted Minds,DhillDucks,0.011005135799906739,Twisted Minds,0.9889948642000932,Twisted Minds
+DhillDucks vs Goud Guys,DhillDucks,0.034494211310311,Goud Guys,0.9655057886896891,Goud Guys
+DhillDucks vs SpaceStation,DhillDucks,0.010823435892014354,SpaceStation,0.9891765641079856,SpaceStation
+DhillDucks vs Team Z,DhillDucks,0.3162195399635907,Team Z,0.6837804600364094,Team Z
+DhillDucks vs Team Liquid,DhillDucks,0.010392963763592285,Team Liquid,0.9896070362364077,Team Liquid
+SpaceStation vs Sakura,SpaceStation,0.9630663007835907,Sakura,0.03693369921640927,SpaceStation
+SpaceStation vs Amplify,SpaceStation,0.9874416423077262,Amplify,0.012558357692273852,SpaceStation
+SpaceStation vs Shikigami,SpaceStation,0.9543026308713517,Shikigami,0.045697369128648385,SpaceStation
+SpaceStation vs Avidity,SpaceStation,0.9913532525909688,Avidity,0.008646747409031154,SpaceStation
+SpaceStation vs Rad,SpaceStation,0.8732768029620354,Rad,0.12672319703796464,SpaceStation
+SpaceStation vs Timeless,SpaceStation,0.7889483823676448,Timeless,0.21105161763235528,SpaceStation
+SpaceStation vs Supernova,SpaceStation,0.9093571356190986,Supernova,0.09064286438090144,SpaceStation
+SpaceStation vs Frost Tails,SpaceStation,0.9455673597132954,Frost Tails,0.05443264028670455,SpaceStation
+SpaceStation vs The Ultimates,SpaceStation,0.9751861161053847,The Ultimates,0.024813883894615318,SpaceStation
+SpaceStation vs GenG,SpaceStation,0.8254679020102923,GenG,0.17453209798970765,SpaceStation
+SpaceStation vs Al qadsiah,SpaceStation,0.4464745805914316,Al qadsiah,0.5535254194085684,Al qadsiah
+SpaceStation vs Team Peps,SpaceStation,0.8873827773815104,Team Peps,0.11261722261848964,SpaceStation
+SpaceStation vs Virtuspro,SpaceStation,0.5388843432989677,Virtuspro,0.4611156567010322,SpaceStation
+SpaceStation vs NTMR,SpaceStation,0.4419489297213506,NTMR,0.5580510702786495,NTMR
+SpaceStation vs Extinction,SpaceStation,0.9665810524580554,Extinction,0.033418947541944535,SpaceStation
+SpaceStation vs Geekay Esports,SpaceStation,0.4395797919109025,Geekay Esports,0.5604202080890974,Geekay Esports
+SpaceStation vs Vision Esports,SpaceStation,0.5993398726429593,Vision Esports,0.4006601273570408,SpaceStation
+SpaceStation vs Quick Esports,SpaceStation,0.9597213619247478,Quick Esports,0.0402786380752523,SpaceStation
+SpaceStation vs Twisted Minds,SpaceStation,0.504207897291494,Twisted Minds,0.495792102708506,SpaceStation
+SpaceStation vs Goud Guys,SpaceStation,0.7655403635444313,Goud Guys,0.23445963645556864,SpaceStation
+SpaceStation vs DhillDucks,SpaceStation,0.9891765641079856,DhillDucks,0.010823435892014354,SpaceStation
+SpaceStation vs Team Z,SpaceStation,0.9768866191596878,Team Z,0.023113380840312156,SpaceStation
+SpaceStation vs Team Liquid,SpaceStation,0.4897464765102036,Team Liquid,0.5102535234897965,Team Liquid
+Team Z vs Sakura,Team Z,0.3815531669914397,Sakura,0.6184468330085603,Sakura
+Team Z vs Amplify,Team Z,0.6503941336534428,Amplify,0.3496058663465572,Team Z
+Team Z vs Shikigami,Team Z,0.3307004422584016,Shikigami,0.6692995577415983,Shikigami
+Team Z vs Avidity,Team Z,0.7306511641259954,Avidity,0.2693488358740046,Team Z
+Team Z vs Rad,Team Z,0.14019015917461997,Rad,0.8598098408253799,Rad
+Team Z vs Timeless,Team Z,0.08125914499301234,Timeless,0.9187408550069877,Timeless
+Team Z vs Supernova,Team Z,0.1918322740828977,Supernova,0.8081677259171023,Supernova
+Team Z vs Frost Tails,Team Z,0.29128779976601316,Frost Tails,0.7087122002339868,Frost Tails
+Team Z vs The Ultimates,Team Z,0.4818245424131228,The Ultimates,0.5181754575868772,The Ultimates
+Team Z vs GenG,Team Z,0.1006414871257511,GenG,0.899358512874249,GenG
+Team Z vs Al qadsiah,Team Z,0.018727005137520014,Al qadsiah,0.98127299486248,Al qadsiah
+Team Z vs Team Peps,Team Z,0.1571382288453276,Team Peps,0.8428617711546724,Team Peps
+Team Z vs Virtuspro,Team Z,0.02690664317633272,Virtuspro,0.9730933568236673,Virtuspro
+Team Z vs NTMR,Team Z,0.018393105233780453,NTMR,0.9816068947662195,NTMR
+Team Z vs Extinction,Team Z,0.40629169628222955,Extinction,0.5937083037177705,Extinction
+Team Z vs Geekay Esports,Team Z,0.018220372947321442,Geekay Esports,0.9817796270526786,Geekay Esports
+Team Z vs Vision Esports,Team Z,0.03418307839395194,Vision Esports,0.965816921606048,Vision Esports
+Team Z vs Quick Esports,Team Z,0.3605132594736677,Quick Esports,0.6394867405263323,Quick Esports
+Team Z vs Twisted Minds,Team Z,0.023496499056180505,Twisted Minds,0.9765035009438194,Twisted Minds
+Team Z vs Goud Guys,Team Z,0.07171356695771676,Goud Guys,0.9282864330422831,Goud Guys
+Team Z vs DhillDucks,Team Z,0.6837804600364094,DhillDucks,0.3162195399635907,Team Z
+Team Z vs SpaceStation,Team Z,0.023113380840312156,SpaceStation,0.9768866191596878,SpaceStation
+Team Z vs Team Liquid,Team Z,0.022205082826337978,Team Liquid,0.977794917173662,Team Liquid
+Team Liquid vs Sakura,Team Liquid,0.9644979652228606,Sakura,0.03550203477713942,Team Liquid
+Team Liquid vs Amplify,Team Liquid,0.987940274889764,Amplify,0.012059725110236005,Team Liquid
+Team Liquid vs Shikigami,Team Liquid,0.9560585025742131,Shikigami,0.04394149742578697,Team Liquid
+Team Liquid vs Avidity,Team Liquid,0.9916978795684023,Avidity,0.008302120431597775,Team Liquid
+Team Liquid vs Rad,Team Liquid,0.8777471647305095,Rad,0.12225283526949049,Team Liquid
+Team Liquid vs Timeless,Team Liquid,0.7956976065027834,Timeless,0.2043023934972165,Team Liquid
+Team Liquid vs Supernova,Team Liquid,0.9126819714556031,Supernova,0.08731802854439683,Team Liquid
+Team Liquid vs Frost Tails,Team Liquid,0.9476404590321702,Frost Tails,0.05235954096782975,Team Liquid
+Team Liquid vs The Ultimates,Team Liquid,0.9761596087923862,The Ultimates,0.023840391207613894,Team Liquid
+Team Liquid vs GenG,Team Liquid,0.8312989910977094,GenG,0.16870100890229056,Team Liquid
+Team Liquid vs Al qadsiah,Team Liquid,0.45663290043583443,Al qadsiah,0.5433670995641656,Al qadsiah
+Team Liquid vs Team Peps,Team Liquid,0.8914174010697741,Team Peps,0.10858259893022594,Team Liquid
+Team Liquid vs Virtuspro,Team Liquid,0.54905962619717,Virtuspro,0.4509403738028299,Team Liquid
+Team Liquid vs NTMR,Team Liquid,0.45208837985737416,NTMR,0.5479116201426258,NTMR
+Team Liquid vs Extinction,Team Liquid,0.9678810180435174,Extinction,0.0321189819564825,Team Liquid
+Team Liquid vs Geekay Esports,Team Liquid,0.4497086895053818,Geekay Esports,0.5502913104946182,Geekay Esports
+Team Liquid vs Vision Esports,Team Liquid,0.6091486878278723,Vision Esports,0.39085131217212765,Team Liquid
+Team Liquid vs Quick Esports,Team Liquid,0.9612774732252588,Quick Esports,0.038722526774741244,Team Liquid
+Team Liquid vs Twisted Minds,Team Liquid,0.5144589254151937,Twisted Minds,0.48554107458480644,Team Liquid
+Team Liquid vs Goud Guys,Team Liquid,0.7728226040396741,Goud Guys,0.22717739596032585,Team Liquid
+Team Liquid vs DhillDucks,Team Liquid,0.9896070362364077,DhillDucks,0.010392963763592285,Team Liquid
+Team Liquid vs SpaceStation,Team Liquid,0.5102535234897965,SpaceStation,0.4897464765102036,Team Liquid
+Team Liquid vs Team Z,Team Liquid,0.977794917173662,Team Z,0.022205082826337978,Team Liquid
